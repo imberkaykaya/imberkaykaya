@@ -16,6 +16,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imberkaykaya&" alt="imberkaykaya" /></p>
 
+![snake gif](https://github.com/imberkaykaya/imberkaykaya/blob/output/github-contribution-grid-snake.gif)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imberkaykaya/imberkaykaya/output/github-contribution-grid-snake-dark.svg">
