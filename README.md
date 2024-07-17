@@ -17,4 +17,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imberkaykaya&" alt="imberkaykaya" /></p>
 
 
-![snake_gif](https://github.com/imberkaykaya/blob/output/github-contribution-grid-snake.gif)
+![snake_gif](https://github.com/imberkaykaya/imberkaykaya/blob/output/github-contribution-grid-snake.gif)
