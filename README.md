@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.prod.website-files.com/5f2b1efb0f881760ffdc5c96/63c12849a1c7e9df64c819fc_programming-languages-shutterstock-1680857539-p-800.webp)
+//![MasterHead](https://cdn.prod.website-files.com/5f2b1efb0f881760ffdc5c96/63c12849a1c7e9df64c819fc_programming-languages-shutterstock-1680857539-p-800.webp)
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
